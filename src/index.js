@@ -7,4 +7,4 @@ ReactDOM.render(
     <Home />
   </React.StrictMode>,
   document.getElementById('root')
-)
+);
